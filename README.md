@@ -2,16 +2,14 @@
 
 Repozytorium zawiera rozwiązania laboratoriów z przedmiotu Wprowadzenie do Systemów Mobilnych.
 
-Zawartość repozytorium
+Zawartość repozytorium:
 
 lab_01/ – teoretyczne podstawy i algorytmy generowania zdarzeń oraz zmiennych losowych.
 
-Technologie
+Technologie:
 
 Python
-
 Google Colab
-
 Matplotlib
 
 Organizacja pracy

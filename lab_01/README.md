@@ -39,3 +39,7 @@ Celem laboratorium jest implementacja generatorów liczb pseudolosowych o rozkł
 ## Weryfikacja
 
 Poprawność działania sprawdzono na podstawie histogramów oraz porównania statystyk z wartościami teoretycznymi dla wybranych parametrów.
+
+## Trudności / refleksja
+
+Podczas laboratorium zapoznałem się ze środowiskiem Google Colab i nauczyłem się uruchamiać w nim kod w języku Python. Poznałem również podstawy generowania liczb pseudolosowych oraz wizualizacji wyników za pomocą histogramów.

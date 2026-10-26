@@ -5,6 +5,7 @@ Repozytorium zawiera rozwiązania laboratoriów z przedmiotu **Wprowadzenie do S
 ## Zawartość repozytorium
 
 - `lab_01/` – teoretyczne podstawy i algorytmy generowania zdarzeń oraz zmiennych losowych.
+- `lab_02/` – teoria kolejek i analiza systemów obsługi.
 
 ## Technologie
 

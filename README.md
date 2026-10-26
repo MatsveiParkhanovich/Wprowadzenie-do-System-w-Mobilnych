@@ -17,6 +17,6 @@ Google Colab
 Matplotlib
 
 
-Organizacja pracy
+Organizacja pracy:
 
 Każde laboratorium znajduje się w osobnym katalogu. Katalog zawiera kod źródłowy oraz plik README.md z opisem wykonanych zadań i sposobem uruchomienia programu.

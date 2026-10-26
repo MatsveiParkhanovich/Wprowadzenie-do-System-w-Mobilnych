@@ -1,4 +1,4 @@
-# Lab 01 – Generowanie liczb losowych
+# lab_01 – Generowanie liczb losowych
 
 ## Co zostało zrealizowane
 

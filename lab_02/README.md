@@ -1,4 +1,4 @@
-# Lab 02 – Teoria kolejek i analiza systemów obsługi
+# lab_02 – Teoria kolejek i analiza systemów obsługi
 
 ## Co zostało zrealizowane
 

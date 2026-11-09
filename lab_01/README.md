@@ -1,4 +1,4 @@
-# Laboratorium – Generowanie liczb losowych, teoria kolejek i analiza systemów obsługi
+# lab_01 – Generowanie liczb losowych, teoria kolejek i analiza systemów obsługi
 
 ## Co zostało zrealizowane
 

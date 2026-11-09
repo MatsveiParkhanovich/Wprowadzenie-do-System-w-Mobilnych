@@ -4,7 +4,7 @@ Repozytorium zawiera rozwiązanie laboratorium z przedmiotu **Wprowadzenie do Sy
 
 ## Zawartość repozytorium
 
-- `lab_01/` – generowanie liczb losowych, teoria kolejek i analiza systemów obsługi.
+- `lab_01/` – teoretyczne podstawy i algorytmy generowania zdarzeń (ruchu) oraz teoria kolejek.
 
 Laboratorium obejmuje zagadnienia związane z generowaniem zmiennych losowych z rozkładu Poissona i normalnego (Gaussa), a także analizę systemów kolejkowych i ich podstawowych parametrów.
 

@@ -1,11 +1,12 @@
 # Wprowadzenie do Systemów Mobilnych
 
-Repozytorium zawiera rozwiązania laboratoriów z przedmiotu **Wprowadzenie do Systemów Mobilnych**.
+Repozytorium zawiera rozwiązanie laboratorium z przedmiotu **Wprowadzenie do Systemów Mobilnych**.
 
 ## Zawartość repozytorium
 
-- `lab_01/` – teoretyczne podstawy i algorytmy generowania zdarzeń oraz zmiennych losowych.
-- `lab_02/` – teoria kolejek i analiza systemów obsługi.
+- `lab_01/` – generowanie liczb losowych, teoria kolejek i analiza systemów obsługi.
+
+Laboratorium obejmuje zagadnienia związane z generowaniem zmiennych losowych z rozkładu Poissona i normalnego (Gaussa), a także analizę systemów kolejkowych i ich podstawowych parametrów.
 
 ## Technologie
 

@@ -1,15 +1,37 @@
-# lab_01 – Generowanie liczb losowych
+# Laboratorium – Generowanie liczb losowych, teoria kolejek i analiza systemów obsługi
 
 ## Co zostało zrealizowane
 
-W ramach laboratorium przygotowałem program w języku Python, który generuje liczby losowe na dwa sposoby. Pierwszy generator korzysta z rozkładu Poissona, a drugi z rozkładu normalnego (Gaussa).
+W ramach laboratorium przygotowałem programy w języku Python, które pozwalają generować liczby losowe oraz analizować różne systemy obsługi i kolejkowe.
 
-Program pozwala ustawić liczbę generowanych wartości oraz parametry obu rozkładów. Wyniki są wyświetlane w postaci histogramów, dzięki którym można zobaczyć, jak rozkładają się wygenerowane liczby. Program oblicza również średnią i odchylenie standardowe, aby można było sprawdzić otrzymane wyniki.
+W pierwszej części laboratorium zaimplementowałem dwa generatory liczb losowych. Pierwszy wykorzystuje rozkład Poissona, a drugi rozkład normalny (Gaussa). Program umożliwia ustawienie liczby generowanych wartości oraz parametrów obu rozkładów. Wyniki przedstawiane są w postaci histogramów. Dodatkowo program oblicza średnią i odchylenie standardowe wygenerowanych wartości.
+
+W drugiej części laboratorium przeprowadziłem analizę różnych systemów kolejkowych:
+
+**Zadanie 1 – Sieć komórkowa**
+
+Przeanalizowałem działanie sieci komórkowej, obliczając intensywność ruchu oraz minimalną liczbę kanałów potrzebnych do utrzymania równowagi systemu.
+
+**Zadanie 2 – System pięciu serwerów**
+
+Przeanalizowałem system składający się z pięciu serwerów. Obliczyłem prawdopodobieństwa związane z kolejką i oczekiwaniem, średnią liczbę oczekujących klientów oraz średni czas oczekiwania na obsługę.
+
+**Zadanie 3 – Przychodnia stomatologiczna**
+
+Przeanalizowałem kolejkę pacjentów w przychodni stomatologicznej. Porównałem działanie systemu z trzema i dwoma gabinetami, sprawdzając prawdopodobieństwo obsługi bez oczekiwania oraz średni czas oczekiwania.
+
+**Zadanie 4 – Obsługa studentów w barze**
+
+Przeanalizowałem dane dotyczące studentów korzystających z dwóch stanowisk obsługi w barze. Na podstawie pomiarów oszacowałem intensywność przybywania studentów, intensywność obsługi oraz obciążenie systemu.
 
 ## Uruchomienie
 
-Program został przygotowany w języku Python w środowisku Google Colab. Aby go uruchomić, należy otworzyć plik `lab_01.ipynb` w Google Colab i uruchomić komórkę z kodem. Parametry generowania można zmienić na początku programu.
+Programy zostały przygotowane w języku Python i wykonane w środowisku Google Colab. Aby uruchomić obliczenia, należy otworzyć odpowiednie pliki z kodem w Google Colab i wykonać komórki programu.
+
+W przypadku generatorów liczb losowych parametry generowania można zmienić na początku programu. Wyniki analizy systemów kolejkowych są obliczane automatycznie na podstawie wprowadzonych danych.
 
 ## Trudności / refleksja
 
-Podczas laboratorium zapoznałem się ze środowiskiem Google Colab i nauczyłem się uruchamiać w nim programy w Pythonie. Dowiedziałem się również, jak generować liczby losowe i przedstawiać wyniki na histogramach.
+Podczas laboratorium nauczyłem się generować liczby losowe z wykorzystaniem rozkładu Poissona i normalnego oraz przedstawiać wyniki na histogramach. Poznałem również podstawowe zasady analizy systemów kolejkowych i nauczyłem się obliczać ich najważniejsze parametry.
+
+Lepiej zrozumiałem, jak intensywność napływu klientów, szybkość obsługi oraz liczba stanowisk wpływają na obciążenie systemu, stabilność kolejki i czas oczekiwania. Zdobyłem również praktyczne doświadczenie w wykorzystaniu języka Python do wykonywania obliczeń i analizy danych.

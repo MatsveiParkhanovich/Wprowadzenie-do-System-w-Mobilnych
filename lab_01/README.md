@@ -1,4 +1,4 @@
-# lab_01 – Generowanie liczb losowych, teoria kolejek i analiza systemów obsługi
+# lab_01 – Teoretyczne podstawy i algorytmy generowania zdarzeń (ruchu) oraz teoria kolejek.
 
 ## Co zostało zrealizowane
 

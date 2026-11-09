@@ -11,8 +11,9 @@ Laboratoria obejmują zagadnienia związane z generowaniem zmiennych losowych z 
 
 ## Technologie
 
-- Python 3
-- Anaconda
+- Python
+- Google Colab
+- Anaconda Navigator
 - JupyterLab
 - NumPy
 - Matplotlib

@@ -1,5 +1,5 @@
 
-# Laboratorium 5 – Android Studio cz. 2
+# lab_05 – Android Studio cz. 2
 
 ## Wykorzystane pliki
 

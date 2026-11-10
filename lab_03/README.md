@@ -1,4 +1,4 @@
-# Laboratorium 3 – Koncepcja komórki, propagacja fal i efekt Dopplera
+# lab_03 – Koncepcja komórki, propagacja fal i efekt Dopplera
 
 ## Co zostało zrealizowane
 

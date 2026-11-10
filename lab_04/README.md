@@ -12,12 +12,7 @@ Zrealizowana część obejmuje podstawową funkcjonalność aplikacji. Pozostał
 
 ## Uruchomienie
 
-1. Otwórz projekt `lab_04` w Android Studio.
-2. Poczekaj na zakończenie synchronizacji Gradle.
-3. Uruchom emulator Android lub podłącz urządzenie mobilne.
-4. Wybierz urządzenie na górnym pasku Android Studio.
-5. Kliknij przycisk **Run** (zielony trójkąt).
-6. Po uruchomieniu aplikacji wpisz imię i przetestuj przyciski +1 oraz Clean.
+Pobierz projekt z GitHub za pomocą opcji **Code → Download ZIP**, rozpakuj archiwum `zad_01.zip`, a następnie otwórz rozpakowany projekt w Android Studio. Po synchronizacji Gradle uruchom aplikację na emulatorze lub urządzeniu mobilnym, klikając **Run**.
 
 ## Trudności / refleksja
 

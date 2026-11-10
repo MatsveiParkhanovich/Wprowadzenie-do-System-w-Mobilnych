@@ -1,19 +1,24 @@
 
-# Lab 05 – Obsługa czujników urządzenia Android
+# Laboratorium 5 – Android Studio cz. 2
+
+## Wykorzystane pliki
+
+- `as_z_lab_2.pdf` – instrukcja do laboratorium, zawierająca opis zadań i wskazówki dotyczące implementacji.
+- `ball.png` – grafika piłki wykorzystana w zadaniu 7 (Ball Game).
 
 ## Co zostało zrealizowane
 
-W ramach laboratorium przygotowano aplikację Android prezentującą działanie czujników urządzenia.
+W ramach laboratorium przygotowano aplikację Android wykorzystującą wbudowane czujniki urządzenia.
 
 Aplikacja zawiera następujące funkcje:
 
 - **Accelerometer** – odczyt danych z akcelerometru w osiach X, Y i Z. Wartości zmieniają się w zależności od położenia urządzenia.
 - **Lightmeter** – pomiar natężenia światła i wyświetlanie aktualnej wartości w luksach (Lux).
-- **Sensors List** – wyświetlanie listy czujników dostępnych w urządzeniu wraz z informacjami o ich typie, producencie, poborze mocy, rozdzielczości i maksymalnym zakresie.
-- **Additional Sensor** – odczyt danych z żyroskopu (Gyroscope), prezentujący prędkość kątową w osiach X, Y i Z.
-- **Ball Game** – gra wykorzystująca akcelerometr, w której położenie piłki zmienia się w zależności od nachylenia urządzenia. Do wyświetlenia piłki wykorzystano plik graficzny `ball.png`.
+- **Sensors List** – wyświetlanie listy czujników dostępnych w urządzeniu wraz z ich podstawowymi parametrami.
+- **Additional Sensor (Gyroscope)** – odczyt prędkości kątowej w osiach X, Y i Z.
+- **Ball Game** – gra wykorzystująca akcelerometr, w której położenie piłki zmienia się w zależności od nachylenia urządzenia. Wykorzystano grafikę `ball.png`.
 
-Każda funkcja została umieszczona w osobnej aktywności. Przechodzenie między poszczególnymi ekranami odbywa się za pomocą menu głównego aplikacji.
+Każda funkcja została zaimplementowana w osobnej aktywności. Przechodzenie między ekranami odbywa się za pomocą menu głównego aplikacji.
 
 ## Uruchomienie
 
@@ -32,4 +37,3 @@ Podczas realizacji laboratorium pojawiły się trudności związane z obsługą 
 W przypadku gry Ball Game konieczne było poprawienie kierunku ruchu piłki, dostosowanie jej pozycji do wskazań akcelerometru oraz ograniczenie ruchu do granic ekranu.
 
 Realizacja laboratorium pozwoliła zapoznać się z obsługą czujników Android, wykorzystaniem `SensorManager`, obsługą zdarzeń oraz tworzeniem własnego widoku graficznego.
-
